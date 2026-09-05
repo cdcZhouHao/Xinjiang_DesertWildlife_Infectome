@@ -10,7 +10,7 @@ This repository contains data and analysis scripts for the manuscript:
 
 * **`Map_data/`**: Stores the 3D satellite imagery maps of Xinjiang.
 * **`Table_data/`**: Stores processed statistical tables.
-* **`script/`**: Stores R and Python scripts used for viral identification, statistical analyses, model construction (NB-GLM), and figure generation.
+* **`script/`**: Stores R scripts used for statistical analyses, model construction (NB-GLM), and figure generation.
 * **`tree/`**: Stores Newick-format phylogenetic tree files and associated metadata.
 ---
 
