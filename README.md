@@ -9,7 +9,7 @@
 This repository hosts reproducible analysis pipelines, statistical scripts, and processed data matrices supporting the manuscript:
 
 > **Infectomics of Extreme Desert Wildlife Unveils Cryptic Microbial Diversity and Emerging Zoonotic Risks**  
-> Hao Zhou<sup>1</sup>, Han Wang<sup>1,2,3</sup>, Yuqing Liu<sup>1,2,3</sup>, Ying Li<sup>4</sup>, Xi Yang<sup>1</sup>, Ji Pu<sup>1</sup>, Jiali Chen<sup>4</sup>, Xiujuan Liu<sup>1</sup>, Fulong Wang<sup>5</sup>, Shan Lu<sup>1</sup>, Jing Yang<sup>1,2,6,*</sup>, Jianguo Xu<sup>1,2,7,*</sup>
+> Hao Zhou<sup>1</sup>, Han Wang<sup>1,2,3</sup>, Yuqing Liu<sup>1,2,3</sup>, Ying Li<sup>4</sup>, Xi Yang<sup>1</sup>, Ji Pu<sup>1</sup>, Jiali Chen<sup>4</sup>, Xiujuan Liu<sup>1</sup>, Fulong Wang<sup>5</sup>, Shan Lu<sup>1</sup>, Jing Yang<sup>1,6,*</sup>, Jianguo Xu<sup>1,7,*</sup>
 
 ---
 
