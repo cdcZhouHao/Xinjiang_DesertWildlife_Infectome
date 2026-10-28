@@ -1,8 +1,15 @@
 # Xinjiang_DesertWildlife_Infectome
 
-This repository contains data and analysis scripts for the manuscript:
+[![Status: Under Review](https://img.shields.io/badge/Status-Manuscript%20under%20review-blue.svg)](#)
+[![Language](https://img.shields.io/badge/Language-R%20%7C%20Bash%20%7C%20Python-orange.svg)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![NCBI BioProject](https://img.shields.io/badge/NCBI%20BioProject-PRJNA1460268-informational.svg)](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1460268)
+[![Zenodo DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22249258-blue.svg)](https://doi.org/10.5281/zenodo.22249258)
+
+This repository hosts reproducible analysis pipelines, statistical scripts, and processed data matrices supporting the manuscript:
+
 > **Infectomics of Extreme Desert Wildlife Unveils Cryptic Microbial Diversity and Emerging Zoonotic Risks**  
-> Hao Zhou, Yuqing Liu, Ying Li, Ji Pu, Xi Yang, Jiali Chen, Xiujuan Liu, Fulong Wang, Shan Lu, Jing Yang*, Jianguo Xu*  
+> Hao Zhou<sup>1</sup>, Han Wang<sup>1,2,3</sup>, Yuqing Liu<sup>1,2,3</sup>, Ying Li<sup>4</sup>, Xi Yang<sup>1</sup>, Ji Pu<sup>1</sup>, Jiali Chen<sup>4</sup>, Xiujuan Liu<sup>1</sup>, Fulong Wang<sup>5</sup>, Shan Lu<sup>1</sup>, Jing Yang<sup>1,2,6,*</sup>, Jianguo Xu<sup>1,2,7,*</sup>
 
 ---
 
